@@ -320,4 +320,8 @@ footer {
     .nav__link:not(:last-child) {
         display: none;
     }
+
+    .about-me__img--container {
+        width: 400px;
+    }
 }
