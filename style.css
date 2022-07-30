@@ -302,6 +302,11 @@ footer {
     margin-bottom: 28px;
 }
 
+.three {
+    height: 350px;
+    width: 650px;
+}
+
 /* Small phones, tablets and large smartphones */
 @media (max-width: 768px) {
     nav {
