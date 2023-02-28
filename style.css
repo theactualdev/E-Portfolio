@@ -254,6 +254,7 @@ nav {
     justify-content: center;
     align-items: center;
     margin-bottom: 50px;
+    width: 100%;
 }
 
 .project__img {
@@ -266,6 +267,16 @@ nav {
     opacity: 0.3;
     transition: all 300ms ease;
 }
+
+.project__list{
+    display: flex;
+    justify-content: center;
+}
+
+.project{
+    margin-right: 10px;
+}
+
 
 /* FOOTER */
 
