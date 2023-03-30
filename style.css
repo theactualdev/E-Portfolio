@@ -8,6 +8,7 @@
 
 html {
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5, h6, span {
@@ -251,6 +252,7 @@ nav {
 
 .project__wrapper {
     display: flex;
+    width: 50%;
     justify-content: center;
     align-items: center;
     margin-bottom: 50px;
